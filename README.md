@@ -1,8 +1,8 @@
-# Raydium Bundler Bot
+# Raydium Bundle Sniper Bot
 
 ## Overview
 
-Raydium Bundler Bot is a powerful tool designed to bundle and snipe tokens within the same block using Jito, allowing you to manage your own token with multiple wallets and custom delays. This tool is the fastest and easiest way to grow your token on the Solana blockchain, offering a multitude of features.
+Raydium Bundle Sniper Bot is a powerful tool designed to bundle and snipe tokens within the same block using Jito, allowing you to manage your own token with multiple wallets and custom delays. This tool is the fastest and easiest way to grow your token on the Solana blockchain, offering a multitude of features.
 
 ## Why Choose Raydium Bundler Bot?
 
