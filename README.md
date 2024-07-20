@@ -30,3 +30,11 @@ Loaded with all the features you need, Raydium Bundler Bot ensures a successful 
 ## Easy to Use
 
 Raydium Bundler Bot features an easy-to-use UI that can be operated on a VPS or your local machine. It is completely open source with no obfuscated code, ensuring transparency and reliability.
+
+### Contact
+Interested in this sniper bot or have questions? Reach out via:
+- **Telegram:** @primeoss
+- **Discord:** primeoss
+- **Email:** prime@oss.one
+
+Your support enables continuous improvements and the expansion of functionalities.
