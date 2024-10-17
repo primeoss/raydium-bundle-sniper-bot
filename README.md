@@ -33,8 +33,7 @@ Raydium Bundler Bot features an easy-to-use UI that can be operated on a VPS or 
 
 ### Contact
 Interested in this sniper bot or have questions? Reach out via:
-- **Telegram:** @primeoss
-- **Discord:** primeoss
-- **Email:** prime@oss.one
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 Your support enables continuous improvements and the expansion of functionalities.
